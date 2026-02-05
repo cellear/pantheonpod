@@ -8,7 +8,7 @@
 
 **Solution**: Use HTTPS clone instead:
 ```bash
-git clone https://github.com/cellear/pantheonpod.git
+git clone https://github.com/cellear/pantheonforge.git
 ```
 
 Or set up SSH key:
